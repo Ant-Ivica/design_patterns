@@ -9,7 +9,7 @@ from design_patterns.creational.factory_method.nike_factory import NikeFactory
 shoe_factory = NikeFactory()
 
 # initialize lists that contain shoe orders and completed shoes
-shoe_requests = ["90", "95", "97", "720"]
+shoe_requests = ["90", "95", "97", "720", "270"]
 shoes = []
 
 
